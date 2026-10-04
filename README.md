@@ -4,7 +4,7 @@ A Python/ML project that recommends products to shoppers from their views, click
 purchases, with a Streamlit dashboard for exploring recommendations, evaluation results and
 per-segment behaviour.
 
-**Live demo:**[ _add your Streamlit URL here after deploying_](https://personalized-appuct-recommendation-model-zepzsyhqmqoywfj3rob3y.streamlit.app/) &nbsp;·&nbsp;
+**Live demo:**[Streamlit URL](https://personalized-appuct-recommendation-model-zepzsyhqmqoywfj3rob3y.streamlit.app/) &nbsp;·&nbsp;
 **CI:** ![CI](https://github.com/Puneeth7104/product-recommendation-system/actions/workflows/ci.yml/badge.svg)
 
 ![stack](https://img.shields.io/badge/Python-3.11%2B-blue) ![stack](https://img.shields.io/badge/pandas%20%7C%20NumPy%20%7C%20scikit--learn-informational) ![stack](https://img.shields.io/badge/Streamlit-dashboard-red)
