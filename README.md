@@ -5,7 +5,7 @@ purchases, with a Streamlit dashboard for exploring recommendations, evaluation 
 per-segment behaviour.
 
 **Live demo:**[Streamlit URL](https://personalized-appuct-recommendation-model-zepzsyhqmqoywfj3rob3y.streamlit.app/) &nbsp;·&nbsp;
-**CI:** ![CI](https://github.com/Puneeth7104/product-recommendation-system/actions/workflows/ci.yml/badge.svg)
+**Project Report:** _https://github.com/Puneeth7104/Personalized-Product-Recommendation-Model/blob/main/Product_Recommendation_System_Project_Report.pdf_
 
 ![stack](https://img.shields.io/badge/Python-3.11%2B-blue) ![stack](https://img.shields.io/badge/pandas%20%7C%20NumPy%20%7C%20scikit--learn-informational) ![stack](https://img.shields.io/badge/Streamlit-dashboard-red)
 
